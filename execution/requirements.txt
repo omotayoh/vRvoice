@@ -1,0 +1,12 @@
+openai-whisper
+sounddevice
+numpy
+torch
+pyttsx3        # For text-to-speech feedback
+fuzzywuzzy     # For fuzzy command matching
+python-Levenshtein  # Improves fuzzy matching speed
+sentence-transformers #NLP
+transformers
+faster-whsper
+rasa
+requests
